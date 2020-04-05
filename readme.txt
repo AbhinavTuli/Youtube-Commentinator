@@ -12,4 +12,3 @@ https://developers.google.com/oauthplayground/
 Get access and refresh token and set them in comment.js
 
 
-Repo name inspired by Doofenshmirtz
